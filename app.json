@@ -12,9 +12,6 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -23,9 +20,7 @@
       "package": "com.gamer20.catphone22"
     },
     "extra": {
-      "eas": {
-        "projectId": "adf84018-0948-46aa-9332-5453bf9f9fbd"
-      }
+      "eas": {}
     }
   }
 }
