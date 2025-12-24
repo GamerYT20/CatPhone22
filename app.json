@@ -1,10 +1,10 @@
 {
   "expo": {
     "name": "CatPhone22",
-    "slug": "catphone22",
+    "slug": "catphone-final",
     "version": "1.0.0",
     "android": {
-      "package": "com.gamer20.catphone22"
+      "package": "com.gamer20.catphonefinal"
     }
   }
 }
