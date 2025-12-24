@@ -2,15 +2,9 @@
   "expo": {
     "name": "CatPhone22",
     "slug": "catphone22",
-    "owner": "cattphon",
     "version": "1.0.0",
     "android": {
       "package": "com.gamer20.catphone22"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "adf84018-0948-46aa-9332-5453bf9f9fbd"
-      }
     }
   }
 }
