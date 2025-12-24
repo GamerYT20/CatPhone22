@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Cat Phone",
+    "slug": "cat-phone",
+    "version": "1.0.0",
+    "icon": "https://i.ibb.co/ynd5BXtT/Cat-Phone-Bc.png",
+    "android": {
+      "package": "com.anakin.catphone",
+      "adaptiveIcon": {
+        "foregroundImage": "https://i.ibb.co/0RBWwgvK/Birthday-Cat.png",
+        "backgroundColor": "#000000"
+      }
+    }
+  }
+}
