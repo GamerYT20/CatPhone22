@@ -1,14 +1,29 @@
 {
   "expo": {
     "name": "CatPhone22",
-    "slug": "CatPhone22",
+    "slug": "catphone22",
     "version": "1.0.0",
-    "icon": "https://i.ibb.co/ynd5BXtT/Cat-Phone-Bc.png",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
     "android": {
-      "package": "com.anakin.catphone22",
       "adaptiveIcon": {
-        "foregroundImage": "https://i.ibb.co/0RBWwgvK/Birthday-Cat.png",
-        "backgroundColor": "#000000"
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gamer20.catphone22"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "adf84018-0948-46aa-9332-5453bf9f9fbd"
       }
     }
   }
